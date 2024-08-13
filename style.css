@@ -1,0 +1,28 @@
+body{
+    background-color: darkgray;
+    background-image: url(pexels-iurii-laimin-78973777-9555131.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    color: antiquewhite;
+}
+.num{
+    width: 250px;
+    height: 350px; ;
+    background-color: #242424;
+    border: 2cm solid;
+    float: left;
+    margin-left: 100px;
+    border-radius: 10%;
+    margin-top: 30px;
+}
+.title{
+    text-align: center;
+    text-transform: capitalize;
+}
+.h1:hover{
+    color: antiquewhite;
+    text-align: center;
+    margin-left: 30px;
+}
